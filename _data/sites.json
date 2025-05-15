@@ -20782,6 +20782,17 @@
     },
 
     {
+        "name": "Sibra",
+        "url": "https://boutique.sibra.fr/fr/contactez-nous",
+        "difficulty": "hard",
+        "notes": "You need to contact support.",
+        "notes_fr": "Vous devez contacter le support..",
+        "domains": [
+            "sibra.fr"
+        ]
+    },
+
+    {
         "name": "SigFig",
         "url": "https://support.sigfig.com/hc/en-us/articles/202586434-How-do-I-completely-delete-my-account-",
         "difficulty": "hard",
