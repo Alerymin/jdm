@@ -20784,9 +20784,9 @@
     {
         "name": "Sibra",
         "url": "https://boutique.sibra.fr/fr/contactez-nous",
-        "difficulty": "hard",
-        "notes": "You need to contact support.",
-        "notes_fr": "Vous devez contacter le support..",
+        "difficulty": "impossible",
+        "notes": "Nothing says how to and support does not respond.",
+        "notes_fr": "Rien ne dit comment le faire et le support ne répond pas.",
         "domains": [
             "sibra.fr"
         ]
